@@ -7,9 +7,9 @@ from influxdb_client import InfluxDBClient, Point, WritePrecision
 
 TB_URL = "https://thingsboard.cloud"
 
-TB_USERNAME = "danhng3925@gmail.com"
-TB_PASSWORD = "03092005"
-DEVICE_ID = "e7a9aaf0-bf93-11f1-b143-c924012d9fae"
+TB_USERNAME = "usernameCuaBan"
+TB_PASSWORD = "matKhauCuaBan"
+DEVICE_ID = "idThietBi"
 
 KEYS = [
     "temperature",
@@ -21,7 +21,7 @@ KEYS = [
 ]
 
 INFLUX_URL = "http://localhost:8086"
-INFLUX_TOKEN = "V93k4_TKJAyKVxWwFtDnz2yYjrBqB4fs6HG-QAgiG6RZMtAkm2gCDMOwZmEt3VRpo3Uug-k7LhO4N6f2_-flKQ=="
+INFLUX_TOKEN = "tokenCuaBan"
 INFLUX_ORG = "PTIT"
 INFLUX_BUCKET = "iot_data"
 
