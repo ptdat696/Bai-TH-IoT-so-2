@@ -3,7 +3,7 @@ import pandas as pd
 from influxdb_client import InfluxDBClient
 
 INFLUX_URL = "http://localhost:8086"
-INFLUX_TOKEN = "V93k4_TKJAyKVxWwFtDnz2yYjrBqB4fs6HG-QAgiG6RZMtAkm2gCDMOwZmEt3VRpo3Uug-k7LhO4N6f2_-flKQ=="
+INFLUX_TOKEN = "tokenCuaBan"
 INFLUX_ORG = "PTIT"
 INFLUX_BUCKET = "iot_data"
 
